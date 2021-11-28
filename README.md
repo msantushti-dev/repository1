@@ -5,4 +5,5 @@
 ~~~
 Window.alert('This is the Alert Box');
 ~~~
+![App Screenshot](https://i.imgur.com/Clwr1Gv.png)
 ![firefoxcomfirmdialog_zpsf00ec381](https://user-images.githubusercontent.com/95132377/143727870-8e004d6b-78b2-4831-be37-aff1722e3c4d.png)
